@@ -40,5 +40,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://us-central1-social-ape-6479a.cloudfunctions.net/api"
+  "proxy": ""
 }

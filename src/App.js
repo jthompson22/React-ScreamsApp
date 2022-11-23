@@ -21,7 +21,7 @@ import {logoutUser, getUserData} from './redux/actions/userActions'
 import axios from 'axios';
 
 const theme = createMuiTheme(themeFile);
-axios.defaults.baseURL = "https://us-central1-social-ape-6479a.cloudfunctions.net/api"
+axios.defaults.baseURL = ""
 
 //code executes once the application is started
 const token = localStorage.FBIdToken; 
